@@ -7,9 +7,6 @@
 
 
 <br>
-
-
-
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 
@@ -71,14 +68,13 @@
 </p>
 
 <br>
-<br>
 
 -----
 
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Mis estadisticas </b>
 <br>
 
 <div align="center">
@@ -91,12 +87,9 @@
 </div>
 
 <br>
-<br>
-<br>
 
 -----
 
-<br>
 <br>
 
 ## <b> ¡Contactame! </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
@@ -104,10 +97,9 @@
 <div align='left'>
 
 <ul>
-
 <li>
 <a href="https://www.linkedin.com/in/joaquinrodriguez-dev" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Joaquín Rodríguez%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 </a>
 </li>
 
@@ -115,7 +107,7 @@
 
 <li>
 <a href="mailto:joaquinrodriguez.dev@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  joaquinrodriguez.dev@gmail.com%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 </a>
 </li>
 	
