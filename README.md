@@ -98,19 +98,17 @@
 
 <ul>
 <li>
-<a href="https://www.linkedin.com/in/joaquinrodriguez-dev" target="_blank">
+
 ![linkedin: Joaquín Rodríguez](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-</a>
 </li>
 
 <br>
 
 <li>
-<a href="mailto:joaquinrodriguez.dev@gmail.com" target="_blank">
+
 ![Gmail: joaquinrodriguez.dev@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-</a>
 </li>
 	
 </ul>
