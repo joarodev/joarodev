@@ -99,7 +99,8 @@
 <ul>
 <li>
 <a href="https://www.linkedin.com/in/joaquinrodriguez-dev" target="_blank">
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+![linkedin: Joaquín Rodríguez](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
 </a>
 </li>
 
@@ -107,7 +108,8 @@ https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&l
 
 <li>
 <a href="mailto:joaquinrodriguez.dev@gmail.com" target="_blank">
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+![Gmail: joaquinrodriguez.dev@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
 </a>
 </li>
 	
