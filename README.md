@@ -59,7 +59,7 @@
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="50"> Contact Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/joarodev/" target="_blank">
+  <a href="https://www.linkedin.com/in/joaquinrodriguez-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:joaquinrodriguez.dev@gmail.com">
