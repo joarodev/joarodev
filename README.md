@@ -16,7 +16,7 @@
 
 - 🚀 Passionate multi-stack developer  
 - 🧠 IT tutor in React, SQL & AI  
-- 📚 Data Science Technical Student  
+- 📚 Data Science Technical
 - 🌐 Portfolio: [joa-rod.dev](https://my-portfolio-v2-two-nu.vercel.app/)  
 - 📄 [Download my Resume (CV)](https://my-portfolio-v2-two-nu.vercel.app/resume)
 
